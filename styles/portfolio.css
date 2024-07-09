@@ -161,3 +161,14 @@ main{
     box-shadow: 0px 6px 50px 0px #000000;
     padding: 25px;
 }
+
+/* Resume styles */
+.resume-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-container .ln-break{
+    color: #D1D1D1;
+    width: 550px;
+}
